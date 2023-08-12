@@ -10,4 +10,7 @@ Developer From Pakistan✨</h3>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/saudattari">**Github**</a>.
 - 💬 Ask me about **C#, .NET, APIs, C++, DSA & SQL**
 - 📝 Contact me on <a href="https://www.linkedin.com/in/mohammad-saud-attari/">**LinkedIn**</a>
-- 📫 How to reach me: mohammadsaudattari@gmail.com
+- 📫 How to `reach` me: mohammadsaudattari@gmail.com
+<hr>
+<h2>Connect me With</h2>
+<a href="https://www.linkedin.com/in/mohammad-saud-attari/"><img src="https://github.com/saudattari/saudattari/assets/117003607/e16da27d-eb85-4fe8-9ef6-751cbd42280c" height="70px" width="70px" align="left" ></a>
