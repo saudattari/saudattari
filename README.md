@@ -1,15 +1,13 @@
- ### Hi 👋, I am Mohammad Saud
+<center><h1 align="center">Hi 👋, I am Mohammad Saud</h1></center>
 
-**saudattari/saudattari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">✨I am Software 
+Developer From Pakistan✨</h3>
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I’m currently working on **Desktop Applications using .NET**  
+ <img src="https://github.com/saudattari/saudattari/assets/117003607/6d84fdc1-478b-4437-8ecc-ff276b173f4f" width="315px" height="300px" align="right" margin-bottom="50px">
+- 🌱 I’m currently learning **C# & SQL**
+- 👯 I’m looking to collaborate on D**esktop Development.**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/saudattari">**Github**</a>.
+- 💬 Ask me about **C#, .NET, APIs, C++, DSA & SQL**
+- 📝 Contact me on <a href="https://www.linkedin.com/in/mohammad-saud-attari/">**LinkedIn**</a>
+- 📫 How to reach me: mohammadsaudattari@gmail.com
