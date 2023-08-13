@@ -4,7 +4,7 @@
 Developer From Pakistan✨</h3>
 
  🔭 I’m currently working on **Desktop Applications using .NET**  
- <img src="https://github.com/saudattari/saudattari/assets/117003607/6d84fdc1-478b-4437-8ecc-ff276b173f4f" width="330px" height="300px" align="right" margin-bottom="50px">
+ <img src="https://github.com/saudattari/saudattari/assets/117003607/6d84fdc1-478b-4437-8ecc-ff276b173f4f" width="370px" height="300px" align="right" margin-bottom="50px">
 - 🌱 I’m currently learning **C# & SQL**
 - 👯 I’m looking to collaborate on D**esktop Development.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/saudattari">**Github**</a>.
