@@ -3,7 +3,7 @@
 <h3 align="center">✨I am Software 
 Developer From Pakistan✨</h3>
 
- 🔭 I’m currently working on **Desktop Applications using .NET**  
+ 🔭 I’m currently working on **Android App Development(Kotlin)**  
  <img src="https://github.com/saudattari/saudattari/assets/117003607/6d84fdc1-478b-4437-8ecc-ff276b173f4f" width="370px" height="300px" align="right" margin-bottom="50px">
 - 🌱 I’m currently learning **C# & SQL**
 - 👯 I’m looking to collaborate on D**esktop Development.**
